@@ -1,0 +1,27 @@
+#d1 {
+    background-color: aqua;
+}
+#d2 {
+    background-color: blanchedalmond;
+}
+#d3 {
+    background-color: darkcyan;
+}
+#d4 {
+    background-color: coral
+}
+header{
+    padding: 5px;
+    margin: 5px;
+}
+header a {
+    text-decoration: none;
+    background-color: tomato;
+    color: aliceblue;
+    border-radius: 3px;
+    padding: 2px;
+}
+header a:hover {
+    background-color: #4faddb;
+}
+
